@@ -8,7 +8,7 @@ https://github.com/HackerNews/API
 
 # To use
 
-Clone this repo, then
+Clone this repo and create a venv, then
 
 ```bash
 pip install -r requirements.txt
